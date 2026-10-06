@@ -1,0 +1,6 @@
+{
+  "name": "IndiaToolbox",
+  "description": "Powerful Tools. Made Simple. Fast, private online calculators, converters, and text utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
